@@ -1,0 +1,11 @@
+D:\VSTask\Task_0802\Task_0802\bin\Debug\netcoreapp2.1\Task_0802.deps.json
+D:\VSTask\Task_0802\Task_0802\bin\Debug\netcoreapp2.1\Task_0802.runtimeconfig.json
+D:\VSTask\Task_0802\Task_0802\bin\Debug\netcoreapp2.1\Task_0802.runtimeconfig.dev.json
+D:\VSTask\Task_0802\Task_0802\bin\Debug\netcoreapp2.1\Task_0802.dll
+D:\VSTask\Task_0802\Task_0802\bin\Debug\netcoreapp2.1\Task_0802.pdb
+D:\VSTask\Task_0802\Task_0802\obj\Debug\netcoreapp2.1\Task_0802.csprojAssemblyReference.cache
+D:\VSTask\Task_0802\Task_0802\obj\Debug\netcoreapp2.1\Task_0802.csproj.CoreCompileInputs.cache
+D:\VSTask\Task_0802\Task_0802\obj\Debug\netcoreapp2.1\Task_0802.AssemblyInfoInputs.cache
+D:\VSTask\Task_0802\Task_0802\obj\Debug\netcoreapp2.1\Task_0802.AssemblyInfo.cs
+D:\VSTask\Task_0802\Task_0802\obj\Debug\netcoreapp2.1\Task_0802.dll
+D:\VSTask\Task_0802\Task_0802\obj\Debug\netcoreapp2.1\Task_0802.pdb
